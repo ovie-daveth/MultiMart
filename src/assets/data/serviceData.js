@@ -9,13 +9,13 @@ const serviceData = [
     icon: "ri-refresh-line",
     title: "Easy Returns",
     subtitle: "Lorem ipsum dolor sit amet.",
-    bg: "#ceebe9",
+    bg: "lightblue",
   },
   {
     icon: "ri-secure-payment-line",
     title: "Secure Payment",
     subtitle: "Lorem ipsum dolor sit amet.",
-    bg: "#e2f2b2",
+    bg: "#cef558",
   },
   {
     icon: "ri-exchange-dollar-line",
